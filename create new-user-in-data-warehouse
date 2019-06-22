@@ -1,0 +1,33 @@
+# Create new User in Data Warehouse
+
+## Purpose
+Create a User in Data Warehouse application.  Anyone who needs to access Data Warehouse application, and all BI360 Budget Managers will need a User in Data Warehouse.
+
+## Scope
+Create a new user to Data Warehouse application
+
+## Prerequisites
+User must have an existing Active directory Account
+
+## Procedure
+Follow these steps to add the User in in Data Warehouse Application
+
+1. Launch BI 360 Data Warehouse Manager Application
+
+2. Select BI360DW-Live Connection
+
+3. Click Connect
+
+4. Click Administration
+
+5. Click Users
+
+6. Click New > New User
+
+7. Make sure csba.org is selected under Domain
+
+8. Type full or partial user name
+
+9. Select the user to be added
+
+10. Click OK (a window will close)
